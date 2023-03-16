@@ -4,9 +4,16 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/authentication_repo/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/authentication_repo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/authentication_repo/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/user_repo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/user_repo/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/user_repo/.dart_tool" />
     </content>
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
     <orderEntry type="library" name="Flutter Plugins" level="project" />
