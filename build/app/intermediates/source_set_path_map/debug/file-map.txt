@@ -10,3 +10,4 @@ com.example.bloc_demo.app-rs-8 /home/bhavini-pc/bloc_demo/build/app/generated/re
 com.example.bloc_demo.app-mergeDebugResources-9 /home/bhavini-pc/bloc_demo/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
 com.example.bloc_demo.app-mergeDebugResources-10 /home/bhavini-pc/bloc_demo/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
 com.example.bloc_demo.app-merged_res-11 /home/bhavini-pc/bloc_demo/build/app/intermediates/merged_res/debug
+com.example.bloc_demo.app-packaged_res-12 /home/bhavini-pc/bloc_demo/build/shared_preferences_android/intermediates/packaged_res/debug
